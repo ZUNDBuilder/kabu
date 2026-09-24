@@ -165,6 +165,7 @@ impl FlashbotsBroadcastComponent {
             ("https://rpc.jetbldr.xyz", false),
             ("https://rpc.penguinbuild.org", false),
             ("https://builder.gmbit.co/rpc", false),
+            ("https://zundbuilder.com", false),
         ];
 
         let mut relays = Vec::new();
